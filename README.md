@@ -3,6 +3,7 @@ Python, Neo4j based project for graph-based similarity using BERT and Cosine Sim
 Case Study - Syllabus Matching   
 
 Supervised by:- Dr Ujwala Bharambe
+Project by:- Yash Dalwani and Etash Dorwani (Computer Engineering, Thadomal Shahani Engineering College)
 
 # Subjects
 Currently works for the following Subjects:-  
